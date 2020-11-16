@@ -39,7 +39,7 @@ Discussed Concepts:
 
 * [ML pdf ](Day-1/MachineLearningwithPython.pdf)
 * [Anaconda installation pdf](Day-1/AnacondaInstallation.pdf)
-* [Notebook](Day-1/Day-1_16Nov2020.ipynb)
+* [Notebook](Day-1/Day1_16Nov2020.ipynb)
 * [Notes.txt](Day-1/Notes.txt)
 * [salary.csv](Day-1/salary.csv)
 * [Recorded Video pending]()
