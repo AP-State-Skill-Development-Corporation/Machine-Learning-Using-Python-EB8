@@ -1,0 +1,128 @@
+
+ML Terminologies
+	Input/features(X)
+
+	Output/Target(y)
+
+
+we want to predict the  particular mail is spam or not?
+	Yes/No
+	1/0
+	True/False
+
+
+
+prediction employee salary with his experience?
+	10K
+12K
+1L
+2L
+
+
+For example 
+we want predict revenue of reliance industries using number of jio subscribers
+ 
+
+jio subscribers Input/features
+Revenue output/target
+
+
+
+1. Get the data
+	google search
+	official websites
+	or any other sites provide required data
+	we have to generate dummy data with formula(y=mx+c)
+	we have to collect manually for required data
+	by conducting lottery
+
+2. Pre-processing
+	clean the data for required format
+	is there any missing values?
+	is there invalid values?
+	
+	i want predict particular person has cancer or not?
+		name	Fever
+		sai             80
+		ram           1000
+3. Train model
+	a. seperate the features and target
+	b. if possible split the data for training and testing
+	c. select the algorithm and train the algorithm with  training data
+
+4.Test model
+	by using testing we test the model and verify the results ,how it is performing
+
+5. improve the model with different techniques
+	1. re train model with different examples
+	2. re train model with different features
+	3. parameter tuning
+
+
+
+
+
+
+
+
+we test the student by giving 5 questions
+
+
+students given 3 correct answers 
+
+performance  = correct answers/ tatal questions
+
+(3*100/5) = 60%
+
+
+
+ 
+
+
+
+
+
+
+
+you have 10 questions along with answers
+you have to test the student how he is performing
+in the class we train/teach the students about 5 questions
+
+we conduct exam for the student
+	
+
+
+
+we Anaconda software with jupyter-notebook
+
+
+by using jupyter notebook 
+	we can do python code   ---> code cell
+	we can do the documentation   --> markdown cell
+
+
+
+
+Now we work with dummy csv file for manipulation of data
+
+
+
+
+
+
+
+Tomorrow onwards we provide attendance sheet with you for verify your self
+
+
+
+
+
+
+
+
+
+
+
+
+
+

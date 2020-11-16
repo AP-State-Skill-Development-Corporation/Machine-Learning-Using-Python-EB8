@@ -27,6 +27,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 #### Your details printed on Certificates verify once → [[clickHere]]()
 
 
+--->
 
 ### Day1 Introduction to Machine Learning (16/Nov/2020)
 
@@ -38,9 +39,7 @@ Discussed Concepts:
 
 * [ML pdf ](Day-1/MachineLearningwithPython.pdf)
 * [Anaconda installation pdf](Day-1/AnacondaInstallation.pdf)
-* [Notebook](Day-1/)
+* [Notebook](Day-1/Day-1_16Nov2020.ipynb)
 * [Notes.txt](Day-1/Notes.txt)
 * [salary.csv](Day-1/salary.csv)
-* [Recorded Video]()
-
---->
+* [Recorded Video pending]()
