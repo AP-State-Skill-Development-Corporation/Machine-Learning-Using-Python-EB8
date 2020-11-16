@@ -42,4 +42,4 @@ Discussed Concepts:
 * [Notebook](Day-1/Day1_16Nov2020.ipynb)
 * [Notes.txt](Day-1/Notes.txt)
 * [salary.csv](Day-1/salary.csv)
-* [Recorded Video pending]()
+* [Recorded Video](https://transcripts.gotomeeting.com/#/s/0a91d815c6e7baae729249af21023d36fbfbda2dc90718afaff0d3e23a5e647b)
