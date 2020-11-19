@@ -68,7 +68,7 @@ Discussed Concepts
 * [Recorded  video](https://transcripts.gotomeeting.com/#/s/31b6217e5fb0566ac1a783be2be8e05c207364491323cd7e3e1747154bc63a7e)
 
 
-### Day4 KNN algorithm (19/Nob/2020)
+### Day4 KNN algorithm (19/Nov/2020)
 
 Discussed Concepts
 1. K-Nearest Neighbour Algorithm
