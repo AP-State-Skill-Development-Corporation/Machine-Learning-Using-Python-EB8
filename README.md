@@ -77,3 +77,12 @@ Discussed Concepts
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/819542b6f3768d67e957f1fe14a1d88979c6696e75711369aade8dbe1fdd6393)
 
 
+### Day5 Classification Algorithms (20/Nov/2020)
+
+Discussed Concepts
+1. Logistic Regression Algorithm
+2. Support Vector Machine
+
+* [Notebook](Day-5/Day5_20Nov2020.ipynb)
+* [Recorded Video](https://transcripts.gotomeeting.com/#/s/e8141da58b1ea3e5a8d1866208cbd2b6ab726d5172928a1e938e49de853bdae4)
+
