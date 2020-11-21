@@ -71,7 +71,8 @@ Discussed Concepts
 ### Day4 KNN algorithm (19/Nov/2020)
 
 Discussed Concepts
-1. K-Nearest Neighbour Algorithm
+1. Introduction to Classification
+2. K-Nearest Neighbour Algorithm
 
 * [Class Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB8/blob/master/Day-4(19-11)/19-11-2020.ipynb)
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/819542b6f3768d67e957f1fe14a1d88979c6696e75711369aade8dbe1fdd6393)
