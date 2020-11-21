@@ -73,7 +73,7 @@ Discussed Concepts
 Discussed Concepts
 1. K-Nearest Neighbour Algorithm
 
-* [Notebook pending](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB8/blob/master/Day-4(19-11)/19-11-2020.ipynb)
+* [Class Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB8/blob/master/Day-4(19-11)/19-11-2020.ipynb)
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/819542b6f3768d67e957f1fe14a1d88979c6696e75711369aade8dbe1fdd6393)
 
 
