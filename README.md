@@ -87,3 +87,16 @@ Discussed Concepts
 * [Notebook](Day-5/Day5_20Nov2020.ipynb)
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/e8141da58b1ea3e5a8d1866208cbd2b6ab726d5172928a1e938e49de853bdae4)
 
+
+### Day6 Classification Algorithms (21/Nov/2020)
+
+Discussed Concepts
+1. Decision Tree
+2. Decision Tree Types
+3. Decision Tree Algorithems
+4. Decision Tree Terminologies
+
+* [Notebook](Day6_21Nov2020/Day6_21Nov2020(Decision%20tree).ipynb)
+* [Recorded Video](https://transcripts.gotomeeting.com/#/s/0fef39a52b4c0124db485ddb4a8a04427697321c26624f93fcb309b190177212)
+
+
