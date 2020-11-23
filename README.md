@@ -25,10 +25,12 @@ Everyone should compulsory follow the below instruction in order to get the atte
 #### Attendance sheet reference purpose only(make sure to follow above instructions to get present) → [[clickHere]](https://docs.google.com/spreadsheets/d/1xkmgqb9QJbS0yKViK5BH_bc2iPJ_RnNlN9pOL-EJP2U/edit?usp=sharing)
 
 <!-----
-#### Your details printed on Certificates verify once → [[clickHere]]()
-
-
+	comment
 --->
+
+#### Your details printed on Certificates verify once → [[clickHere]](https://docs.google.com/spreadsheets/d/1iQK9NUUHpeiBqMBPn0u_8-P_h9uScNH_fn-hYfPVe6Q/edit?usp=sharing)
+
+
 
 ### Day1 Introduction to Machine Learning (16/Nov/2020)
 
