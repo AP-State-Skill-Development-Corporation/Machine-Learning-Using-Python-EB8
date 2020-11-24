@@ -102,3 +102,14 @@ Discussed Concepts
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/0fef39a52b4c0124db485ddb4a8a04427697321c26624f93fcb309b190177212)
 
 
+### Day7 Classification Algorithms (23/Nov/2020)
+
+Discussed Concepts
+1. Decision Tree Regressor
+2. Random Forest Classifier
+4. Random Forest Regressor
+
+* [Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB8/blob/master/Day7_23Nov2020/Day7_23Nov2020(Decision%20Tree%20Regressor%2C%20Random%20Forest).ipynb)
+* [Recorded Video](https://transcripts.gotomeeting.com/#/s/6a0be622ad8b1f123e96e9f072f94cdd7fda41a33fe34d138709ac64e8ea2706)
+
+
