@@ -113,3 +113,11 @@ Discussed Concepts
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/6a0be622ad8b1f123e96e9f072f94cdd7fda41a33fe34d138709ac64e8ea2706)
 
 
+### Day9 Principal Component Analysis (25/Nov/2020)
+
+Discussed Concepts
+1. Principal Component Analysis
+2. Saving model to pickle file
+
+* [Notebook](Day-9/Day9_25Nov2020.ipynb)
+* [Recorded Video](https://transcripts.gotomeeting.com/#/s/4167d5bafa93173f8d343839f9c62ae0f16b978af1a23322f02f56dbbb06e7f1)
