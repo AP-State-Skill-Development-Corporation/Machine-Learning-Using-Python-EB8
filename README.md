@@ -107,10 +107,19 @@ Discussed Concepts
 Discussed Concepts
 1. Decision Tree Regressor
 2. Random Forest Classifier
-4. Random Forest Regressor
+3. Random Forest Regressor
 
 * [Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB8/blob/master/Day7_23Nov2020/Day7_23Nov2020(Decision%20Tree%20Regressor%2C%20Random%20Forest).ipynb)
 * [Recorded Video](https://transcripts.gotomeeting.com/#/s/6a0be622ad8b1f123e96e9f072f94cdd7fda41a33fe34d138709ac64e8ea2706)
+
+### Day8 Unsupervised Learning (24/Nov/2020)
+
+Discussed Concepts
+1. Unsupervised Learning Explanation
+2. KMeans Clustering
+
+* [Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-EB8/blob/master/Day8_24Nov2020/24-11-2020%20K-Means.ipynb)
+* [Recorded Video](https://transcripts.gotomeeting.com/#/s/d9cb32ac08da9e2426b14e492f0e5b963e5785b4c8328c4eda283d1f69a37a77)
 
 
 ### Day9 Principal Component Analysis (25/Nov/2020)
